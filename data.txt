@@ -1,0 +1,3 @@
+Santiago, 18, Bogotá
+Andrea, 20, Cali
+Sergio, 22, Medellin
